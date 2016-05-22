@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Приложение B</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="countdown_notice_description_text">Приложение B не является самостоятельным приложением и будет закрыто через: </string>
+    <string name="countdown_notice_seconds_text">секунд.</string>
+    <string name="image_loading_error">При загрузке изображения произошла ошибка</string>
+</resources>

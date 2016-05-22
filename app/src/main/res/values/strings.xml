@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Приложение А</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="launcher_activity_first_section">тест</string>
+    <string name="launcher_activity_second_section">история</string>
+
+    <string name="launcher_fragment_first_tab_edit_text_hint">Введите URL изображения</string>
+    <string name="launcher_fragment_first_tab_button_submit_hint">Ok</string>
+    <string name="launcher_fragment_action_button_sort">Сортировать</string>
+
+    <string name="launcher_activity_sort_toggled_date_added">Включена сортировка по дате добавления</string>
+    <string name="launcher_activity_sort_toggled_status">Включена сортировка по статусу</string>
+    <string name="launcher_activity_sort_toggled_off">Сортировка выключена</string>
+
+    <string name="launcher_fragment_first_tab_no_url_entered">Пожалуйста, введите URL, чтобы продолжить</string>
+</resources>
